@@ -1,0 +1,1 @@
+Developed a Book Management System using Spring Boot and Maven for managing book collections. The app supports CRUD operations for adding, updating, searching, and deleting books. Built with a focus on clean code, efficiency, and user-friendly project structure.
